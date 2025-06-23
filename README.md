@@ -1,7 +1,7 @@
 # CRUD App with EJS
 
-A simple CRUD (Create, Read, Update, Delete) application built using Node.js, Express, MongoDB, and EJS templating engine.
-
+Two seperate model CRUD (Create, Read, Update, Delete) application built using Node.js, Express, MongoDB, and EJS templating engine.
+Two seperate model logic in single controller 
 ---
 
 ## 📌 Table of Contents
