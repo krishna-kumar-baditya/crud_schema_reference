@@ -34,4 +34,4 @@ npm install
 ## Setup Environment Variables
 create a .env file and set PORT and MONGODB_URL which we get at the time of creation of mongodb account
 PORT = 3000
-MONGODB_URL = "mongodb+srv://<username>:<password>@cluster0.cnmzo.mongodb.net/crudejs"
+MONGODB_URL = "mongodb+srv://username:password@cluster0.cnmzo.mongodb.net/crudejs"
