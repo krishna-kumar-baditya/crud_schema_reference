@@ -1,0 +1,22 @@
+.container {
+    width: 100%;
+    min-height: 100vh;
+}
+.form-wrapper {
+    max-width: 500px;
+    border-radius: 20px;
+    border: 1px solid rgb(94, 91, 91);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 20px 16px;
+}
+.table{
+    border: 1px solid rgb(94, 91, 91);
+}
+.table__responsive{
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 20px 16px;
+}
+a{
+    text-decoration: none;
+}

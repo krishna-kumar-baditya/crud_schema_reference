@@ -1,0 +1,25 @@
+{
+  "name": "crud-ejs",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "crud",
+    "ejs"
+  ],
+  "license": "MIT",
+  "author": "krishna",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "mongoose": "^8.16.0",
+    "nodemon": "^3.1.10"
+  }
+}
